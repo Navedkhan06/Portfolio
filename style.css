@@ -7,13 +7,22 @@
     outline: none;
     scroll-behavior: smooth;
     font-family: 'Times New Roman', Times, serif;
+    font-family: 'DM Sans', sans-serif;
 }
 
-:root {
+/* :root {
     --bg--color: #081b29;
     --second-bg--color: #112e42;
     --text--color: #ededed;
     --main--color: #00abf0;
+} */
+
+
+:root {
+    --bg--color: #A45C40;
+    --second-bg--color: #C38370;
+    --text--color: #F6EEE0;
+    --main--color: #E4B7A0;
 }
 
 html {
